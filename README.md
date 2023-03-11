@@ -1,4 +1,4 @@
-# GithubAddCommitPush
+# Push2Github
 
 Github shell script to commit and push your changes.
 
