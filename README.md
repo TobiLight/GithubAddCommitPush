@@ -1,6 +1,6 @@
 # GithubAddCommitPush
 
-Github shell script to commit and push your changes
+Github shell script to commit and push your changes.
 
 # PS: You can modify the script to add specified files instead of all the files.
 
