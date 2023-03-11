@@ -12,5 +12,5 @@ Github shell script to commit and push your changes
 5. T for thanks and thanks for coming. :v:
 
 
-# Author
+### Author
 TobiLight
