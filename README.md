@@ -1,6 +1,6 @@
 # GithubAddCommitPush
 
-Github shell script to commit and push your changes
+Github shell script to commit and push your changes.
 
 # PS: You can modify the script to add specified files instead of all the files.
 
@@ -18,5 +18,5 @@ Github shell script to commit and push your changes
 * Set origin url.
 * Add specified files instead of all the files which is the default settings.
 
-# Author
+### Author
 TobiLight
