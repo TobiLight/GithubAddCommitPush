@@ -12,5 +12,11 @@ Github shell script to commit and push your changes
 5. T for thanks and thanks for coming. :v:
 
 
+## TO-DO
+* Check if current directory is git initialized.
+* Add global git configurations.
+* Set origin url.
+* Add specified files instead of all the files which is the default settings.
+
 # Author
 TobiLight
