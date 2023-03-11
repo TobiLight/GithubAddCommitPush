@@ -16,7 +16,7 @@ Github shell script to commit and push your changes.
 * Check if current directory is git initialized.
 * Add global git configurations.
 * Set origin url.
-* Add specified files instead of all the files which is the default settings.
+* Add specified files instead of all the files which is the default setting.
 
 ### Author
 TobiLight
